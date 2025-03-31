@@ -1,5 +1,5 @@
 ## Senasec
-
+ejemplo 111
 Senasec es un servicio de software desarrollado por la empresa Zajudem. Este sistema integra reconocimiento facial con inteligencia artificial para permitir el acceso del profesorado a las instalaciones educativas. Además, proporciona una plataforma para visualizar las aulas disponibles y los horarios de clase junto con sus respectivos cursos.
 
 ## Tecnologías utilizadas
